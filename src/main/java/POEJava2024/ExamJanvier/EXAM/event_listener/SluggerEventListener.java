@@ -1,7 +1,7 @@
 package POEJava2024.ExamJanvier.EXAM.event_listener;
 
 import POEJava2024.ExamJanvier.EXAM.Slugger;
-import POEJava2024.ExamJanvier.EXAM.entity.SluggerInterface;
+import POEJava2024.ExamJanvier.EXAM.entity.interfaces.SluggerInterface;
 import lombok.AllArgsConstructor;
 import org.hibernate.event.spi.PreInsertEvent;
 import org.hibernate.event.spi.PreInsertEventListener;

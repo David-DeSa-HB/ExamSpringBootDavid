@@ -1,4 +1,4 @@
-package POEJava2024.ExamJanvier.EXAM.entity;
+package POEJava2024.ExamJanvier.EXAM.entity.interfaces;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
